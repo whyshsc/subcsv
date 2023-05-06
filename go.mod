@@ -1,3 +1,3 @@
-module github.com/whyshsc/subcsvsubcsv
+module github.com/whyshsc/subcsv
 
 go 1.20
